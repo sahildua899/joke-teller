@@ -36,6 +36,7 @@ button {
 
 button:hover {
   filter: brightness(95%);
+  background-color: yellowgreen;
 }
 
 button:active {
